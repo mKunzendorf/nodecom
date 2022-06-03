@@ -1,0 +1,7 @@
+Topic;NODE_1;NODE_2;node_3;Description
+SERVER_RECEIVE_PORT;9998;9996;9994;
+SERVER_TRANSMIT_PORT;9999;9997;9995;
+NODE_IP;127.0.0.1;127.0.0.1;127.0.0.1;
+node_1_status;2;1;1;
+node_2_status;0;2;1;
+Node_3_status;1;;2;
