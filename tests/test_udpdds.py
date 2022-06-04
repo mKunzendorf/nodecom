@@ -1,4 +1,4 @@
-import udpdds
+from nodecom import udpdds
 import unittest
 import time
 import pickle
